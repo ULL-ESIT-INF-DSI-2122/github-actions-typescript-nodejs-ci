@@ -1,8 +1,8 @@
 {
-  "name": "doc-test",
+  "name": "github-actions-typescript-nodejs-ci",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/basicFunctions.js",
   "scripts": {
     "test": "mocha",
     "coverage": "nyc npm test && nyc report --reporter=lcov",
