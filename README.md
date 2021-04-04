@@ -7,8 +7,8 @@
     <a href="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/actions/workflows/node.js.yml">
         <img alt="Tests" src="https://github.com/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/actions/workflows/node.js.yml/badge.svg?branch=main">
     </a>
-    <a href="https://coveralls.io/github/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci?branch=main">
-        <img alt="Coverage Status" src='https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/badge.svg?branch=main'/>
+    <a href='https://coveralls.io/github/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci?branch=main'>
+        <img src='https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2021/github-actions-typescript-nodejs-ci/badge.svg?branch=main' alt='Coverage Status' />
     </a>
 </p>
 
