@@ -23,9 +23,9 @@ jobs:
         node-version: 15.x
     - name: Installing dependencies
       run: npm install
-    - name: Generating coverage report
+    - name: Generating coverage information
       run: npm run coverage
     - name: Coveralls GitHub Action
       uses: coverallsapp/github-action@master
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secret.GITHUB_TOKEN }}
