@@ -11,5 +11,5 @@
  * ```
  */
 export function add(firstNumber: number, secondNumber: number) {
-  return firstNumber + secondNumber + 1;
+  return firstNumber + secondNumber;
 }
